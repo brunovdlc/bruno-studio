@@ -57,7 +57,7 @@ export function mainPlatformInfo(): IPlatformInfo {
   const downloadsDirectory = testMode ? './tmp' : e.app.getPath('downloads')
   const homeDirectory = testMode ? './tmp' : e.app.getPath('home')
   if (p.env.PORTABLE_EXECUTABLE_DIR) {
-    userDirectory = join(p.env.PORTABLE_EXECUTABLE_DIR, 'ric_studio_data')
+    userDirectory = join(p.env.PORTABLE_EXECUTABLE_DIR, 'bruno_studio_data')
   }
   const pluginsDirectory = join(userDirectory, 'plugins')
 

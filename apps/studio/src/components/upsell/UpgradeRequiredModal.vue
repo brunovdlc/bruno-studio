@@ -11,7 +11,7 @@
         v-kbd-trap="true"
       >
         <h3 class="dialog-c-title has-icon">
-          <i class="material-icons">stars</i> <span>Upgrade ric Studio</span>
+          <i class="material-icons">stars</i> <span>Upgrade Bruno Studio</span>
         </h3>
 
         <a

@@ -136,7 +136,7 @@ export default class PluginManager {
       if (!this.isPluginLoadable(info.latestRelease.manifest)) {
         throw new NotSupportedPluginError(
           `Plugin "${info.latestRelease.manifest.id}" is not compatible with app version "${this.options.appVersion}". ` +
-          `Please upgrade ric Studio to use this plugin.`
+          `Please upgrade Bruno Studio to use this plugin.`
         );
       }
 

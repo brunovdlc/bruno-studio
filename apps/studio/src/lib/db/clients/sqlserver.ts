@@ -1103,7 +1103,7 @@ export class SQLServerClient extends BasicDatabaseClient<SQLServerResult> {
       server: server.config.host,
       database: database.database,
       requestTimeout: Infinity,
-      appName: 'ricstudio',
+      appName: 'brunostudio',
       pool: {
         max: 10
       }

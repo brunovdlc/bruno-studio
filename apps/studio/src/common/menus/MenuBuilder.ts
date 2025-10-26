@@ -65,7 +65,7 @@ export default class extends DefaultMenu {
     const appMenu: Electron.MenuItemConstructorOptions[] = []
     if (this.platformInfo.isMac) {
       appMenu.push({
-        label: "ric Studio",
+        label: "Bruno Studio",
         submenu: [
           this.menuItems.about,
           { role: 'services' },

@@ -15,7 +15,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
         <a href="" target="_blank">
-          <img src={bksLogo} className="logo bks" alt="ric Studio logo" />
+          <img src={bksLogo} className="logo bks" alt="Bruno Studio logo" />
         </a>
       </div>
       <h1>Vite + React + @beekeeperstudio/ui-kit</h1>

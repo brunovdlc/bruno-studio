@@ -75,11 +75,11 @@ export default class NativeMenuActionHandlers implements IMenuActionHandler {
   }
   about(): void {
     app.setAboutPanelOptions({
-      applicationName: "ric Studio",
+      applicationName: "Bruno Studio",
       applicationVersion: app.getVersion(),
-      copyright: "ric",
-      authors: ["ric"],
-      website: "https://ric.gg",
+      copyright: "Bruno",
+      authors: ["Bruno"],
+      website: "https://bruno.gg",
       iconPath: getIcon()
     })
     app.showAboutPanel()

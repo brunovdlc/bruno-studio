@@ -17,9 +17,9 @@
           <i class="material-icons">clear</i>
         </a>
         <div class="message">
-          This will make a copy of your .sql files and add them to your ric
+          This will make a copy of your .sql files and add them to your Bruno
           Studio saved queries. Any changes to the original .sql files will not be
-          reflected in ric Studio.
+          reflected in Bruno Studio.
         </div>
         <div class="file-picker-wrapper">
           <file-picker

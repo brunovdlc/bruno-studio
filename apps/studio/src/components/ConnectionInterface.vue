@@ -143,7 +143,7 @@
           </template>
         </div>
 
-        <small class="app-version"><a href="#">ric Studio {{
+        <small class="app-version"><a href="#">Bruno Studio {{
             version
           }}</a></small>
       </div>
