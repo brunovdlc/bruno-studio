@@ -226,7 +226,7 @@
     "> 1%",
     "last 2 versions"
   ],
-  "repository": "git@github.com:iludir/ric-studio.git",
+  "repository": "git@github.com:brunovdlc/bruno-studio.git",
   "resolutions": {
     "cpu-features": "file:./.yarn/packages/empty-package"
   }

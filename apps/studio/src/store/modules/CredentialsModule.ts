@@ -8,7 +8,7 @@ import Vue from "vue";
 import { TransportCloudCredential } from "@/common/transport";
 
 function genAppId() {
-  return `ric-app-${uuidv4()}`
+  return `bruno-app-${uuidv4()}`
 }
 
 export interface WSWithClient {

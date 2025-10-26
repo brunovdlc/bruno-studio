@@ -88,7 +88,7 @@ export function menuItems(actionHandler: IMenuActionHandler, settings: IGroupedU
     // help
     about: {
       id: 'about',
-      label: 'About ric Studio',
+      label: 'About Bruno Studio',
       click: actionHandler.about
     },
     devtools: {
@@ -99,7 +99,7 @@ export function menuItems(actionHandler: IMenuActionHandler, settings: IGroupedU
     },
     restart: {
       id: 'restart',
-      label: "Restart ric",
+      label: "Restart Bruno Studio",
       click: actionHandler.restart
     },
     checkForUpdate: {
@@ -131,7 +131,7 @@ export function menuItems(actionHandler: IMenuActionHandler, settings: IGroupedU
     },
     addBeekeeper: {
       id: 'add-beekeeper',
-      label: "Add ric's Database",
+      label: "Add Bruno Studio's Database",
       click: actionHandler.addBeekeeper
     },
     newTab: {

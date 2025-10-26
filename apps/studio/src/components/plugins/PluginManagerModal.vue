@@ -13,7 +13,7 @@
         <div class="plugin-manager-content">
           <div class="plugin-list-container">
             <div class="description">
-              Manage and install plugins in ric Studio.
+              Manage and install plugins in Bruno Studio.
             </div>
             <error-alert :error="errors" />
             <plugin-list
